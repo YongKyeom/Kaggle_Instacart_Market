@@ -8,6 +8,7 @@
 
 ## Script
 * I do this process in kaggle's kernal, there is an only 1 script with data load, preprocess, feature engineering, modeling and prediction
+* Use LightGBM with h2o(In h2o, if you want to LightGBM, you just adjust options of xgboost)
 
 ## Reference
 * https://www.kaggle.com/c/instacart-market-basket-analysis
